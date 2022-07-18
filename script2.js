@@ -39,6 +39,10 @@ switch (diaSemana) {
     default:
                 alert("Escribe el día de la semana en minúsculas y sin acento.");
 }
+for(i=20;i<=70;i++){
+        document.write("El número es: " + i + "<br>");
+        }
+
 
 var numero = prompt("Cuantas veces quieres que se repita Hola mundo:")
 
